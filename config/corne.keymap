@@ -59,9 +59,9 @@
             //                    | GUI |     | SPC |   | ENT |     | ALT |
 
             bindings = <
-&kp TAB    &kp HOME     &kp END                &kp AMPERSAND    &kp ASTERISK  &kp LEFT_PARENTHESIS    &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp C_VOLUME_UP       &kp C_VOLUME_DOWN     &kp C_MUTE  &kp DEL
-&kp LCTRL  &kp PAGE_UP  &kp PAGE_DOWN          &kp DOLLAR       &kp PERCENT   &kp CARET               &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LBKT              &kp RBKT              &kp TILDE   &kp GRAVE
-&kp LSHFT  &kp INSERT   &kp RIGHT_PARENTHESIS  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH                &kp UNDER             &kp MINUS              &kp C_BRIGHTNESS_INC  &kp C_BRIGHTNESS_DEC  &kp PIPE    &kp BACKSLASH
+&kp TAB    &kp HOME     &kp END                &kp AMPERSAND    &kp ASTERISK  &kp LEFT_PARENTHESIS    &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &kp C_MUTE  &kp DEL
+&kp LCTRL  &kp PAGE_UP  &kp PAGE_DOWN          &kp DOLLAR       &kp PERCENT   &kp CARET               &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LBKT           &kp RBKT         &kp TILDE   &kp GRAVE
+&kp LSHFT  &kp INSERT   &kp RIGHT_PARENTHESIS  &kp EXCLAMATION  &kp AT_SIGN   &kp HASH                &kp UNDER             &kp MINUS              &kp C_BRI_DEC      &kp C_BRI_INC    &kp PIPE    &kp BACKSLASH
                                                &kp LGUI         &kp LEFT_ALT  &kp SPACE               &kp RET               &trans                 &trans
             >;
         };
